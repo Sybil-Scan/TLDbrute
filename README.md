@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <a href="#installation">🏗️ Install</a>  
-  <a href="#example-usage">⛏️ Usage</a> 
+  <a href="#install">🏗️ Install</a>  
+  <a href="#usage">⛏️ Usage</a> 
   <a href="#use-cases">💡 Use Cases</a> 
   <br>
 </p>
