@@ -56,7 +56,6 @@ def main():
         with open(args.list) as f:
             content = f.readlines()
         domains = [x.strip() for x in content]
-        print(domains)
         for domain in domains:
             generate(domain, tld_names)
         
