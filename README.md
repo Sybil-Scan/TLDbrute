@@ -55,7 +55,7 @@ google.afam
 # Use Cases
 
 
-Organizations often register/operate under different TLDs (due to a variety of reasons that include different languages, demographic, etc). [TLDbrute](https://github.com/Sybil-Scan/tldbrute) takse a domain name or a list of domains as input and spits out all possible variations of domain names containing different TLDs. Which then can be combined with a another tool such as [dnsx](https://github.com/projectdiscovery/dnsx) to resolve the results.
+Organizations often register/operate under different TLDs (due to a variety of reasons that include different languages, demographic, etc). [TLDbrute](https://github.com/Sybil-Scan/tldbrute) takes a domain name or a list of domains as input and spits out all possible variations of domain names containing different TLDs. Which then can be combined with a another tool such as [dnsx](https://github.com/projectdiscovery/dnsx) to resolve the results.
 
 
 ```sh
